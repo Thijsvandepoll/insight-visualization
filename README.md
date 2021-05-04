@@ -1,6 +1,6 @@
 # insight-visualization
 
-In this case you are asked to help us visualize critical strategic insights for Focus’ customers, based on an example patent data set. You will get 1 day to complete the case. If you have any question, please reach out to me at jardvaningen@getfocus.eu or on +31-628409831 (Whatsapp, Signal, or Telegram all work).
+In this case you are asked to help us visualize critical strategic insights for Focus’ customers, based on an example patent data set. You will get 1 day to complete the case. If you have any question, please reach out to me (Jard van Ingen) via email or phone.
 
 ## General explanation of the Focus platform
 
