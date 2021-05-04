@@ -34,15 +34,22 @@ Focus launched a first version of its interface. Only the very basics are presen
 
 The Focus dashboard is the first thing users see when they log into the platform. Here they will see every classifier they have created, in the order in which they were last used. The version of the classifier is also displayed (every time a user performs a new training iteration, a new version is created). 
 
+![alt text](https://github.com/Thijsvandepoll/insight-visualization/blob/main/1%20Focus%20dashboard.png)
+
 ### 2 – Focus search
 
 After creating a new classifier, users can search for relevant patents to label in this interface. On the right side, there is a search form and left of that are the patents that show up after searching.  
+
+![alt text](https://github.com/Thijsvandepoll/insight-visualization/blob/main/2%20Focus%20search.png)
 
 ### 3 – Focus labeling
 
 After searching for patents, the user will start labeling which patents are relevant and which are irrelevant. This is done by clicking the positive and negative buttons which are represented by the green and red circles. When the user feels like enough patents have been labeled for this round, the training button can be clicked to initiate training.
 
+![alt text](https://github.com/Thijsvandepoll/insight-visualization/blob/main/3%20Focus%20labeling.png)
+
 ### 4 – Focus patent badges
 
 To display information about individual patents, Focus works with patent badges. Key information about the patents is displayed here.
 
+![alt text](https://github.com/Thijsvandepoll/insight-visualization/blob/main/4%20Focus%20patent%20badge%20and%20relevancy%20score.png)
